@@ -6,7 +6,7 @@ Pretty Wallpapers I collected to use on my desktop
    >git clone https://github.com/BranBushes/My_Wallpapers.git
 2. Create a user background directory if not created already- 
    >mkdir ~/.local/share/backgrounds
-3. Cd into all the backgrounds directories and delete everything that's there by default-
+3. Cd to all the backgrounds directories and delete everything that's there by default-
    >cd /usr/share/backgrounds/
    
    >sudo rm -r *
@@ -14,7 +14,7 @@ Pretty Wallpapers I collected to use on my desktop
    >cd ~/.local/share/backgrounds
    
    >sudo rm -r *
-4. Cd into directory and Move all of it's contents to the user backgrounds directory-
+4. Cd to directory and Move all of it's contents to the user backgrounds directory-
    >cd ~/My_Wallpapers
    
    >mv * ~/.local/share/backgrounds
