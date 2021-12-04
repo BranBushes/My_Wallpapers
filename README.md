@@ -14,7 +14,7 @@ Pretty Wallpapers I collected to use on my desktop
    >cd ~/.local/share/backgrounds
    
    >sudo rm -r *
-4. Cd to directory and Move all of it's contents to the user backgrounds directory-
+4. Cd to cloned directory and Move all of it's contents to the user backgrounds directory-
    >cd ~/My_Wallpapers
    
    >mv * ~/.local/share/backgrounds
